@@ -1,5 +1,4 @@
 # Imorting All the required Modules Necessary 
-# (opencv, mediapipe, numpy)
 # You may include math and time for displaying fps with ouput source
 #############################################################################################################
 import cv2
@@ -13,8 +12,6 @@ import time
 
 # The main code is for you to make the class handDetector with all the required functions for getting the 
 # info from the detected hand
-# For each functions input, output and what has to be done is been included, your task is to write the code
-# for getting the required output from the input in the respective functions
 #############################################################################################################
 
 
@@ -138,8 +135,6 @@ class handDetector():
 # If you donot have a webcam in yout PC you can use DROID CAM Software
 # To debug you can also use image of a hand , the code for this I have commented out
 # you can decomment it out and comment the video feed code to debug if you feel 
-# some functipn is not working as required
-
 
 #############################################################################################################
 
